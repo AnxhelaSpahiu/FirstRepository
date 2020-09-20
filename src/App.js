@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-console.log('hirrrrr')
+console.log('hirrrreeeer')
 
 class SearchBar extends React.Component {
   state = {
