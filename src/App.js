@@ -149,7 +149,8 @@ class App extends React.Component {
 
 export default App;
 /*<Child
-anxhSexBomba={this.state.sum}
+
+anxhi={this.state.sum}
 sendText={this.childClickHandler}
 />*/
 
